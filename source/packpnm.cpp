@@ -253,15 +253,15 @@ INTERN int  action     = A_COMPRESS; // what to do with files
 	----------------------------------------------- */
 
 INTERN const unsigned char appversion = 16;
-INTERN const char*  subversion   = "c";
+INTERN const char*  subversion   = "d";
 INTERN const char*  apptitle     = "packPNM";
 INTERN const char*  appname      = "packPNM";
-INTERN const char*  versiondate  = "01/15/2014";
+INTERN const char*  versiondate  = "01/22/2016";
 INTERN const char*  author       = "Matthias Stirner";
 #if !defined(BUILD_LIB)
-INTERN const char*  website      = "http://www.elektronik.htw-aalen.de/packjpg/";
-INTERN const char*  email        = "packjpg (at) htw-aalen.de";
-INTERN const char*	copyright    = "2006-2014 HTW Aalen University & Matthias Stirner";
+INTERN const char*  website      = "http://packjpg.encode.ru/";
+INTERN const char*  email        = "packjpg (at) matthiasstirner.com";
+INTERN const char*	copyright    = "2006-2016 HTW Aalen University & Matthias Stirner";
 INTERN const char*  ppn_ext      = "ppn";
 #endif
 
